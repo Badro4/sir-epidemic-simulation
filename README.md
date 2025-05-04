@@ -3,6 +3,8 @@
 ## Description
 This is a Streamlit-based simulation of an SIR (Susceptible, Infected, Recovered) model for epidemic spread, like the coronavirus. Users can adjust parameters such as transmission rate, recovery rate, and mortality rate, and choose predefined scenarios to observe the effect of different measures (e.g., lockdown, vaccination).
 
+[Try the SIR Simulation App](https://sir-epidemic-simulation.streamlit.app)
+
 ## Features
 - Interactive plot of SIR (or SIRD) model with configurable parameters.
 - Simulation of various scenarios: strict lockdown, no measures, and progressive vaccination.
