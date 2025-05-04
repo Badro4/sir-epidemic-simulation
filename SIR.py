@@ -5,6 +5,11 @@ import streamlit as st
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
+st.set_page_config(
+    page_title="SIR Simulation",
+    page_icon="🧪",               
+)
+
 st.title("SIR Model - Epidemic Spread Simulation")
 
 st.write("""
